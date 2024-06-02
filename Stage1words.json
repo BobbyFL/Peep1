@@ -1,0 +1,16 @@
+{
+  "words": [
+    {
+      "word": "ty",
+      "direction": "horizontal",
+      "startX": 1,
+      "startY": 1
+    },
+    {
+      "word": "li",
+      "direction": "vertical",
+      "startX": 4,
+      "startY": 4
+    }
+  ]
+}
