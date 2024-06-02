@@ -1,0 +1,62 @@
+{
+  "levels": [
+    {
+      "levelNumber": 1,
+      "words": [
+        {
+          "word": "ty",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 1
+        },
+        {
+          "word": "li",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 4
+        },
+        {
+          "word": "cat",
+          "direction": "horizontal",
+          "startX": 2,
+          "startY": 2
+        },
+        {
+          "word": "dog",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 3
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "words": [
+        {
+          "word": "apple",
+          "direction": "horizontal",
+          "startX": 0,
+          "startY": 0
+        },
+        {
+          "word": "banana",
+          "direction": "vertical",
+          "startX": 5,
+          "startY": 1
+        },
+        {
+          "word": "grape",
+          "direction": "horizontal",
+          "startX": 3,
+          "startY": 3
+        },
+        {
+          "word": "kiwi",
+          "direction": "vertical",
+          "startX": 2,
+          "startY": 4
+        }
+      ]
+    }
+  ]
+}
