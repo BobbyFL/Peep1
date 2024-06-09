@@ -19,13 +19,13 @@
           "word": "LAB",
           "direction": "vertical",
           "startX": 4,
-          "startY": 2
+          "startY": 3
         },
         {
           "word": "TALE",
           "direction": "vertical",
           "startX": 1,
-          "startY": 1
+          "startY": 3
         }
       ]
     },
