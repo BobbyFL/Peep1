@@ -1,0 +1,64 @@
+{
+  "levels": [
+    {
+      "levelNumber": 1,
+      "selected": "TABLE",
+      "words": [
+        {"word": "TABLE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "TAB", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "LAB", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "TALE", "direction": "vertical", "startX": 1, "startY": 2}
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "selected": "APPLE",
+      "words": [
+        {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "APE", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "PAL", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "PEAL", "direction": "horizontal", "startX": 2, "startY": 2}
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "selected": "HOUSE",
+      "words": [
+        {"word": "HOUSE", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "HUE", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "USE", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "HOSE", "direction": "vertical", "startX": 1, "startY": 2}
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "selected": "CHAIR",
+      "words": [
+        {"word": "CHAIR", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "CAR", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "ARC", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "AIR", "direction": "vertical", "startX": 4, "startY": 1}
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "selected": "FRUIT",
+      "words": [
+        {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "FIT", "direction": "vertical", "startX": 1, "startY": 3},
+        {"word": "RUT", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "FIR", "direction": "vertical", "startX": 0, "startY": 3}
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "selected": "WATER",
+      "words": [
+        {"word": "WATER", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "WAR", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "ATE", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "TAR", "direction": "vertical", "startX": 3, "startY": 2}
+      ]
+    }
+  ]
+}
