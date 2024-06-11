@@ -1,0 +1,1084 @@
+{
+  "levels": [
+    {
+      "levelNumber": 1,
+      "selected": "TABLE",
+      "words": [
+        {
+          "word": "TABLE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "BAT",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "TAB",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "BALE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "selected": "TEALS",
+      "words": [
+        {
+          "word": "TEAL",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "SEAL",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "LEAST",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "EAST",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "selected": "BRACE",
+      "words": [
+        {
+          "word": "BRACE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "RACE",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "CARE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "ACRE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "selected": "CRATE",
+      "words": [
+        {
+          "word": "CRATE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "RATE",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "TRACE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "TEAR",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "selected": "LIMES",
+      "words": [
+        {
+          "word": "LIME",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "SMILE",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SLIME",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "MILES",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "selected": "RAINS",
+      "words": [
+        {
+          "word": "RAIN",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "SAIN",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "AIR",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "RAN",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "selected": "FLAGS",
+      "words": [
+        {
+          "word": "FLAG",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LAG",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SAG",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "GAS",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "selected": "MARCH",
+      "words": [
+        {
+          "word": "MARCH",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "ARCH",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "CHAR",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "ARM",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "selected": "SPLAT",
+      "words": [
+        {
+          "word": "SPLAT",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "PLAT",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "TAPS",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "SAT",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "selected": "PARTS",
+      "words": [
+        {
+          "word": "PART",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "TAPS",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RATS",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "STAR",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "selected": "BRAND",
+      "words": [
+        {
+          "word": "BRAND",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "BARN",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RAN",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "AND",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "selected": "CARDS",
+      "words": [
+        {
+          "word": "CARD",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "RAD",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SAD",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "SCAR",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "selected": "DRAPE",
+      "words": [
+        {
+          "word": "DRAPE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "PARED",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "READ",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "RED",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "selected": "SHOUT",
+      "words": [
+        {
+          "word": "SHOUT",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "OUTH",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "HUT",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "OUT",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "selected": "GRAPE",
+      "words": [
+        {
+          "word": "GRAPE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "PEAR",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "PAGE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "RAGE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "selected": "STEAM",
+      "words": [
+        {
+          "word": "STEAM",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "TEAM",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SEAT",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "MEAT",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "selected": "BREAD",
+      "words": [
+        {
+          "word": "BREAD",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "BEARD",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "DEAR",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "READ",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "selected": "CROWN",
+      "words": [
+        {
+          "word": "CROWN",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "CROW",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "CORN",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "NOW",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "selected": "TREND",
+      "words": [
+        {
+          "word": "TREND",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "REND",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RENT",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "DEN",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "selected": "BLAST",
+      "words": [
+        {
+          "word": "BLAST",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LAST",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SALT",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "LAB",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "selected": "PRIME",
+      "words": [
+        {
+          "word": "PRIME",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "RIME",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RIPE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "PIE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "selected": "CHART",
+      "words": [
+        {
+          "word": "CHART",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "HART",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "CHAR",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "CAR",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "selected": "TREES",
+      "words": [
+        {
+          "word": "TREES",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "SEER",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "REST",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "TEES",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "selected": "CLEAN",
+      "words": [
+        {
+          "word": "CLEAN",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LEAN",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "LACE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "ACE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "selected": "PLANE",
+      "words": [
+        {
+          "word": "PLANE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "PANE",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "LEAN",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "LANE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "selected": "SHINE",
+      "words": [
+        {
+          "word": "SHINE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "HIS",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SIN",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "HEN",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "selected": "BROWN",
+      "words": [
+        {
+          "word": "BROWN",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "BOW",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "OWN",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "ROW",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "selected": "FRUIT",
+      "words": [
+        {
+          "word": "FRUIT",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "FIT",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RIFT",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "RUT",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "selected": "TRACE",
+      "words": [
+        {
+          "word": "TRACE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "ACT",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "RACE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "CAT",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "selected": "GLASS",
+      "words": [
+        {
+          "word": "GLASS",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LAGS",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SAGS",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "SAG",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "selected": "SLICE",
+      "words": [
+        {
+          "word": "SLICE",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LICE",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SIL",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "ICE",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "selected": "DRINK",
+      "words": [
+        {
+          "word": "DRINK",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "RINK",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "DINK",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "INK",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "selected": "PAGES",
+      "words": [
+        {
+          "word": "PAGES",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "PEGS",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "SAGE",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "GAP",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "selected": "CLAMP",
+      "words": [
+        {
+          "word": "CLAMP",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "LAMP",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "CAMP",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "MAP",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "selected": "FLAME",
+      "words": [
+        {
+          "word": "FLAME",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "FAME",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "LAME",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "MEAL",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    },
+    {
+      "levelNumber": 36,
+      "selected": "STORM",
+      "words": [
+        {
+          "word": "STORM",
+          "direction": "horizontal",
+          "startX": 1,
+          "startY": 2
+        },
+        {
+          "word": "MORT",
+          "direction": "vertical",
+          "startX": 3,
+          "startY": 0
+        },
+        {
+          "word": "TORS",
+          "direction": "vertical",
+          "startX": 4,
+          "startY": 2
+        },
+        {
+          "word": "MOST",
+          "direction": "vertical",
+          "startX": 1,
+          "startY": 2
+        }
+      ]
+    }
+  ]
+}
