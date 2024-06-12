@@ -1080,5 +1080,402 @@
         }
       ]
     }
+        {
+            "levelNumber": 37,
+            "selected": "BEAST",
+            "words": [
+                {
+                    "word": "BAT",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "BEAT",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "TAB",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 38,
+            "selected": "BLAST",
+            "words": [
+                {
+                    "word": "LAST",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "BAT",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "TAB",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                }
+            ]
+        },
+        {
+            "levelNumber": 39,
+            "selected": "BREAD",
+            "words": [
+                {
+                    "word": "BREAD",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "BARD",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "READ",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "BARD",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 40,
+            "selected": "CRATE",
+            "words": [
+                {
+                    "word": "CART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "RATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "CRATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                },
+                {
+                    "word": "CART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 3
+                }
+            ]
+        },
+        {
+            "levelNumber": 41,
+            "selected": "EARTH",
+            "words": [
+                {
+                    "word": "ATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "HATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "RATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                },
+                {
+                    "word": "HEART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 3
+                }
+            ]
+        },
+        {
+            "levelNumber": 42,
+            "selected": "FLAME",
+            "words": [
+                {
+                    "word": "FLAME",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "FLAME",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 43,
+            "selected": "FRAME",
+            "words": [
+                {
+                    "word": "FRAME",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "FRAME",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 44,
+            "selected": "HEART",
+            "words": [
+                {
+                    "word": "HEART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "HATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "RATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                },
+                {
+                    "word": "HEAT",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 3
+                }
+            ]
+        },
+        {
+            "levelNumber": 45,
+            "selected": "PLANE",
+            "words": [
+                {
+                    "word": "PLANE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "PLAN",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "NAP",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+               {
+                    "word": "PAN",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                
+                    "word": "LANE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 11,
+            "selected": "SMART",
+            "words": [
+                {
+                    "word": "TAR",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "SMART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "MART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                }
+            ]
+        },
+        {
+            "levelNumber": 46,
+            "selected": "SNAKE",
+            "words": [
+                {
+                    "word": "SNAKE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "KANE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                }
+            ]
+        },
+        {
+            "levelNumber": 47,
+            "selected": "SPOON",
+            "words": [
+                {
+                    "word": "SPOON",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "SOON",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+              {
+                    "word": "SON",
+                    "direction": "vertical",
+                    "startX": 1,
+                    "startY": 1
+                }
+              
+            ]
+        },
+        {
+            "levelNumber": 48,
+            "selected": "STAGE",
+            "words": [
+                {
+                    "word": "STAGE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "TAG",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "GATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                }
+            ]
+        },
+        {
+            "levelNumber": 49,
+            "selected": "TABLE",
+            "words": [
+                {
+                    "word": "TABLE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "LATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "TALE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                },
+                {
+                    "word": "ABLE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 3
+                },
+                {
+                    "word": "BAT",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 4
+                }
+            ]
+        },
+        {
+            "levelNumber": 50,
+            "selected": "TRADE",
+            "words": [
+                {
+                    "word": "DATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 0
+                },
+                {
+                    "word": "RATE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 1
+                },
+                {
+                    "word": "TRADE",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 2
+                },
+                {
+                    "word": "DART",
+                    "direction": "horizontal",
+                    "startX": 1,
+                    "startY": 3
+                }
+            ]
+        }
   ]
 }
