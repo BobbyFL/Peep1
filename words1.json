@@ -4,182 +4,63 @@
       "levelNumber": 1,
       "selected": "TABLE",
       "words": [
-        {
-          "word": "TABLE",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "BAT",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "TAB",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "BALE",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "TABLE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "TAB", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "LAB", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "TALE", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
       "levelNumber": 2,
-      "selected": "TEALS",
+      "selected": "APPLE",
       "words": [
-        {
-          "word": "TEAL",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "SEAL",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "LEAST",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "EAST",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "APE", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "PAL", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "PEAL", "direction": "horizontal", "startX": 2, "startY": 2}
       ]
     },
     {
       "levelNumber": 3,
-      "selected": "BRACE",
+      "selected": "HOUSE",
       "words": [
-        {
-          "word": "BRACE",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "RACE",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "CARE",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "ACRE",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "HOUSE", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "HUE", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "USE", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "HOSE", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
       "levelNumber": 4,
-      "selected": "CRATE",
+      "selected": "CHAIR",
       "words": [
-        {
-          "word": "CRATE",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "RATE",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "TRACE",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "TEAR",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "CHAIR", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "CAR", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "ARC", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "AIR", "direction": "vertical", "startX": 4, "startY": 1}
       ]
     },
     {
       "levelNumber": 5,
-      "selected": "LIMES",
+      "selected": "FRUIT",
       "words": [
-        {
-          "word": "LIME",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "SMILE",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "SLIME",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "MILES",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "FIT", "direction": "vertical", "startX": 1, "startY": 3},
+        {"word": "RUT", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "FIR", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
       "levelNumber": 6,
-      "selected": "RAINS",
+      "selected": "WATER",
       "words": [
-        {
-          "word": "RAIN",
-          "direction": "horizontal",
-          "startX": 1,
-          "startY": 2
-        },
-        {
-          "word": "SAIN",
-          "direction": "vertical",
-          "startX": 3,
-          "startY": 0
-        },
-        {
-          "word": "AIR",
-          "direction": "vertical",
-          "startX": 4,
-          "startY": 2
-        },
-        {
-          "word": "RAN",
-          "direction": "vertical",
-          "startX": 1,
-          "startY": 2
-        }
+        {"word": "WATER", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "WAR", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "ATE", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "TAR", "direction": "vertical", "startX": 3, "startY": 2}
       ]
-    },
+    }
+  ,
     {
       "levelNumber": 7,
       "selected": "FLAGS",
