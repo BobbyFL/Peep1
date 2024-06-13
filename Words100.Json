@@ -17,7 +17,7 @@
         {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 3},
         {"word": "APE", "direction": "vertical", "startX": 0, "startY": 3},
         {"word": "PAL", "direction": "vertical", "startX": 2, "startY": 3},
-        {"word": "PEAL", "direction": "horizontal", "startX": 3, "startY": 0}
+        {"word": "PEAL", "direction": "vertical", "startX": 3, "startY": 0}
       ]
     },
     {
