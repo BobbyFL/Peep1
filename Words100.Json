@@ -26,8 +26,8 @@
       "words": [
         {"word": "HOUSE", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "HUE", "direction": "vertical", "startX": 0, "startY": 2},
-        {"word": "USE", "direction": "vertical", "startX": 2, "startY": 3},
-        {"word": "HOSE", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "USE", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "HOSE", "direction": "horizontal", "startX": 3, "startY": 0}
       ]
     },
     {
