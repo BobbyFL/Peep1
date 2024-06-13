@@ -450,7 +450,7 @@
       "selected": "SMART",
       "words": [
         {"word": "TAR", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SMART", "        "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "MART", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
