@@ -57,7 +57,7 @@
         {"word": "WATER", "direction": "horizontal", "startX": 0, "startY": 1},
         {"word": "WAR", "direction": "vertical", "startX": 0, "startY": 1},
         {"word": "ATE", "direction": "horizontal", "startX": 2, "startY": 2},
-        {"word": "TAR", "direction": "vertical", "startX": 3, "startY": 2}
+        {"word": "TAR", "direction": "vertical", "startX": 2, "startY": 1}
       ]
     },
     {
