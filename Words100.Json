@@ -45,7 +45,7 @@
       "selected": "FRUIT",
       "words": [
         {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 3},
-        {"word": "FIT", "direction": "vertical", "startX": 1, "startY": 3},
+        {"word": "FIT", "direction": "vertical", "startX": 4, "startY": 2},
         {"word": "RUT", "direction": "vertical", "startX": 2, "startY": 3},
         {"word": "FIR", "direction": "vertical", "startX": 0, "startY": 3}
       ]
