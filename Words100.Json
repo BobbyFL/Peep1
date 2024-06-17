@@ -120,7 +120,7 @@
       "selected": "DRAPE",
       "words": [
         {"word": "DRAPE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "PARED", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "PARED", "direction": "vertical", "startX": 4, "startY": 2},
         {"word": "READ", "direction": "vertical", "startX": 4, "startY": 2},
         {"word": "RED", "direction": "vertical", "startX": 1, "startY": 2}
       ]
