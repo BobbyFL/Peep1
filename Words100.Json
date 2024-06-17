@@ -278,9 +278,9 @@
       "selected": "TRACE",
       "words": [
         {"word": "TRACE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "ACT", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "RACE", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "CAT", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "ACT", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "RACE", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "CAT", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
