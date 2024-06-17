@@ -101,9 +101,9 @@
       "selected": "BRAND",
       "words": [
         {"word": "BRAND", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "BARN", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "RAN", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "AND", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "BARN", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "RAN", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "AND", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
     {
