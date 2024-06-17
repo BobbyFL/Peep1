@@ -238,9 +238,9 @@
       "selected": "PLANE",
       "words": [
         {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "PANE", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "LEAN", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "LANE", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "PANE", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "LEAN", "direction": "vertical", "startX": 5, "startY": 1},
+        {"word": "LANE", "direction": "vertical", "startX": 3, "startY": 1}
       ]
     },
     {
