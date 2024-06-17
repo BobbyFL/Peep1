@@ -289,7 +289,7 @@
       "words": [
         {"word": "GLASS", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "LAGS", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "SAG", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "SAG", "direction": "horizontal", "startX": 0, "startY": 4},
         {"word": "GAS", "direction": "vertical", "startX": 5, "startY": 0}
       ]
     },
