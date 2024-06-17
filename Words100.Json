@@ -180,7 +180,7 @@
         {"word": "TREND", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "REND", "direction": "vertical", "startX": 2, "startY": 2},
         {"word": "RENT", "direction": "vertical", "startX": 4, "startY": 0},
-        {"word": "DEN", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "DENT", "direction": "horizontal", "startX": 2, "startY": 5}
       ]
     },
     {
