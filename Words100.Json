@@ -110,9 +110,9 @@
       "selected": "CARDS",
       "words": [
         {"word": "CARD", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "RAD", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "SAD", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "SCAR", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "RAD", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "SAD", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "SCAR", "direction": "vertical", "startX": 1, "startY": 1}
       ]
     },
     {
