@@ -74,9 +74,8 @@
       "selected": "MARCH",
       "words": [
         {"word": "MARCH", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "ARCH", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "CHAR", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "ARM", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "ARCH", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "CHAR", "direction": "vertical", "startX": 5, "startY": 1}
       ]
     },
     {
