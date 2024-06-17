@@ -265,12 +265,12 @@
     },
     {
       "levelNumber": 28,
-      "selected": "FRUIT",
+    "selected": "FRUIT",
       "words": [
-        {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "FIT", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "RIFT", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "RUT", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "FIT", "direction": "vertical", "startX": 5, "startY": 1},
+        {"word": "RUT", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "FIR", "direction": "vertical", "startX": 1, "startY": 3}
       ]
     },
     {
