@@ -130,7 +130,6 @@
       "selected": "SHOUT",
       "words": [
         {"word": "SHOUT", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "OUTH", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "HUT", "direction": "vertical", "startX": 4, "startY": 2},
         {"word": "OUT", "direction": "vertical", "startX": 1, "startY": 2}
       ]
