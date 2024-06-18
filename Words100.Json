@@ -404,10 +404,9 @@
       "selected": "EARTH",
       "words": [
         {"word": "EARTH", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "HATE", "direction": "vertical", "startX": 1, "startY": 1},
-        {"word": "TARE", "direction": "vertical", "startX": 5, "startY": 2},
+        {"word": "HATE", "direction": "vertical", "startX": 5, "startY": 12},
+        {"word": "TARE", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "HEART", "direction": "vertical", "startX": 1, "startY": 1},
-        {"word": "HEART", "direction": "horizontal", "startX": 1, "startY": 3},
         {"word": "TEA", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
