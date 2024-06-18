@@ -410,12 +410,14 @@
         {"word": "TEA", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
-    {
+     {
       "levelNumber": 42,
-      "selected": "FLAME",
+      "selected": "SHINE",
       "words": [
-        {"word": "FLAME", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "FLAME", "direction": "horizontal", "startX": 1, "startY": 1}
+        {"word": "SHINE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "HIS", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "SIN", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "HEN", "direction": "vertical", "startX": 5, "startY": 1}
       ]
     },
     {
