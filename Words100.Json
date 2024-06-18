@@ -359,7 +359,7 @@
       "levelNumber": 37,
       "selected": "BEAST",
       "words": [
-        {"word": "BEAST", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "BEAST", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "EAST", "direction": "vertical", "startX": 2, "startY": 2},
         {"word": "BET", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "BAT", "direction": "horizontal", "startX": 0, "startY": 0},
