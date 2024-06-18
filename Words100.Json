@@ -352,7 +352,7 @@
         {"word": "MORT", "direction": "vertical", "startX": 5, "startY": 2},
         {"word": "TORS", "direction": "vertical", "startX": 2, "startY": 2},
         {"word": "TO", "direction": "horizontal", "startX": 1, "startY": 3},
-        {"word": "MOST", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "MOST", "direction": "horizontal", "startX": 1, "startY": 0}
       ]
     },
     {
