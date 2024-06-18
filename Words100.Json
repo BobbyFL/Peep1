@@ -381,10 +381,11 @@
       "levelNumber": 39,
       "selected": "BREAD",
       "words": [
-        {"word": "BREAD", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "BARD", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "READ", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "BARD", "direction": "horizontal", "startX": 1, "startY": 1}
+        {"word": "BREAD", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "BARD", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "DARE", "direction": "horizontal", "startX": 1, "startY": 5},
+        {"word": "ARE", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "BAD", "direction": "vertical", "startX": 5, "startY": 0}
       ]
     },
     {
