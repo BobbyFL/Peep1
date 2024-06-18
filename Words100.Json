@@ -403,7 +403,7 @@
       "levelNumber": 41,
       "selected": "EARTH",
       "words": [
-        {"word": "ATE", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "EARTH", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "HATE", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "HEART", "direction": "horizontal", "startX": 1, "startY": 3}
