@@ -330,7 +330,7 @@
       "words": [
         {"word": "CLAMP", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "LAMP", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "CAMP", "direction": "horizontal", "startX": 4, "startY": 0},
+        {"word": "CAMP", "direction": "horizontal", "startX": 0, "startY": 4},
         {"word": "MAP", "direction": "vertical", "startX": 5, "startY": 0}
       ]
     },
