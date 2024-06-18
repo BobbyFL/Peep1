@@ -371,9 +371,10 @@
       "levelNumber": 38,
       "selected": "BLAST",
       "words": [
-        {"word": "LAST", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "BAT", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "TAB", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "BLAST", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "LAB", "direction": "vertical", "startX": 1, "startY": 0},
+         {"word": "LAST", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "STAB", "direction": "horizontal", "startX": 5, "startY": 1}
       ]
     },
     {
