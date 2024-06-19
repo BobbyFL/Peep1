@@ -626,7 +626,7 @@
       "words": [
         {"word": "SPLAT", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "SAT", "direction": "horizontal", "startX": 2, "startY": 0},
-        {"word": "LAST", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "LAST", "direction": "horizontal", "startX": 2, "startY": 2},
         {"word": "TAP", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
