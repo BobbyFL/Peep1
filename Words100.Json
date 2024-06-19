@@ -479,8 +479,9 @@
       "selected": "SPOON",
       "words": [
         {"word": "SPOON", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SOON", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SON", "direction": "vertical", "startX": 1, "startY": 1}
+        {"word": "SOON", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "SNOOP", "direction": "horizontal", "startX": 0, "startY": 3},
+        {"word": "SON", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
