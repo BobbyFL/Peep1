@@ -436,9 +436,9 @@
       "selected": "HEART",
       "words": [
         {"word": "HEART", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "HATE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "HEAT", "direction": "horizontal", "startX": 1, "startY": 3}
+        {"word": "HATE", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "RATE", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "HEAT", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
