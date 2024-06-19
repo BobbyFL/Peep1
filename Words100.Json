@@ -624,9 +624,10 @@
       "levelNumber": 62,
       "selected": "SPLAT",
       "words": [
-        {"word": "SPLAT", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PAT", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SAT", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SPLAT", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "SAT", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "LAST", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "TAP", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
