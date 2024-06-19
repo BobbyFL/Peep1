@@ -489,8 +489,10 @@
       "selected": "STAGE",
       "words": [
         {"word": "STAGE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "TAG", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "GATE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "EAST", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "SAT", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "GATE", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "TAG", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
