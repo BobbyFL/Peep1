@@ -582,7 +582,7 @@
       "selected": "STORM",
       "words": [
         {"word": "STORM", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "MORT", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "MORT", "direction": "vertical", "startX": 1, "startY": 1},
         {"word": "SOT", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
