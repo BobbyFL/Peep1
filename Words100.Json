@@ -456,9 +456,12 @@
       "levelNumber": 46,
       "selected": "SMART",
       "words": [
-        {"word": "TAR", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "MART", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "SAT", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "TAR", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "RAT", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "AS", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "MART", "direction": "horizontal", "startX": 0, "startY": 4}
       ]
     },
     {
