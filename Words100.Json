@@ -520,9 +520,11 @@
       "levelNumber": 52,
       "selected": "WORDS",
       "words": [
-        {"word": "WORD", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SWORD", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ROW", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "WORDS", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "SOD", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "ROD", "direction": "horizontal", "startX": 3, "startY": 2},
+        {"word": "ROW", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "SOW", "direction": "horizontal", "startX": 1, "startY": 4}
       ]
     },
     {
