@@ -445,11 +445,11 @@
       "levelNumber": 45,
       "selected": "PLANE",
       "words": [
-        {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "PLAN", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "NAP", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PAN", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "LANE", "direction": "horizontal", "startX": 1, "startY": 1}
+        {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "PLAN", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "NAP", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "PAN", "direction": "vertical", "startX": 3, "startY": 3},
+        {"word": "LANE", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
