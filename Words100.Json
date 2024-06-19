@@ -552,8 +552,8 @@
       "levelNumber": 55,
       "selected": "CLOCK",
       "words": [
-        {"word": "CLOCK", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "LOCK", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "CLOCK", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "LOCK", "direction": "vertical", "startX": 1, "startY": 0},
         {"word": "COL", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
