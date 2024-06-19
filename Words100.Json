@@ -635,15 +635,16 @@
       "selected": "STACK",
       "words": [
         {"word": "STACK", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "TACK", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SAT", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "TACK", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "SACK", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "SAT", "direction": "vertical", "startX": 0, "startY": 2}
       ]
     },
     {
       "levelNumber": 64,
       "selected": "SMART",
       "words": [
-        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY":        0},
+        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "MART", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "ART", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
