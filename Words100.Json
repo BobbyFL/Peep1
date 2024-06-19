@@ -561,9 +561,11 @@
       "levelNumber": 56,
       "selected": "CRATE",
       "words": [
-        {"word": "CRATE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "CAT", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CRATE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "RATE", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "TRACE", "direction": "horizontal", "startX": 1, "startY": 5},
+        {"word": "TAR", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "CART", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
