@@ -510,9 +510,10 @@
       "selected": "TRADE",
       "words": [
         {"word": "TRADE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "TRADE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "DART", "direction": "horizontal", "startX": 1, "startY": 3}
+        {"word": "EAR", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "TAR", "direction": "horizontal", "startX": 3, "startY": 2},
+        {"word": "ART", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "DATE", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
