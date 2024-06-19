@@ -654,9 +654,10 @@
       "levelNumber": 65,
       "selected": "PEACE",
       "words": [
-        {"word": "PEACE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PACE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ACE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "PEACE", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "PEE", "direction": "horizontal", "startX": 1, "startY": 5},
+        {"word": "PACE", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "ACE", "direction": "horizontal", "startX": 2, "startY": 3}
       ]
     },
     {
