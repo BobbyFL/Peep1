@@ -509,7 +509,7 @@
       "levelNumber": 51,
       "selected": "TRADE",
       "words": [
-        {"word": "DATE", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "TRADE", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "TRADE", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "DART", "direction": "horizontal", "startX": 1, "startY": 3}
