@@ -542,9 +542,10 @@
       "levelNumber": 54,
       "selected": "CLEAR",
       "words": [
-        {"word": "CLEAR", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "EAR", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ARC", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CLEAR", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "ARC", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "CAR", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "ARE", "direction": "vertical", "startX": 4, "startY": 3}
       ]
     },
     {
