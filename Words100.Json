@@ -644,7 +644,7 @@
       "levelNumber": 64,
       "selected": "GARDEN",
       "words": [
-        {"word": "GARDEN", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "GARDEN", "direction": "horizontal", "startX": 0, "startY": 0},
         {"word": "DANGER", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "RANGE", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "RED", "direction": "horizontal", "startX": 2, "startY": 4}
