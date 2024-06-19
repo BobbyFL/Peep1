@@ -591,9 +591,11 @@
       "levelNumber": 59,
       "selected": "STONE",
       "words": [
-        {"word": "STONE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "ONE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "NOT", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "STONE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "ONE", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "NOT", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "TONE", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "TEN", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
