@@ -657,16 +657,18 @@
         {"word": "PEACE", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "PEE", "direction": "horizontal", "startX": 1, "startY": 5},
         {"word": "PACE", "direction": "horizontal", "startX": 1, "startY": 3},
-        {"word": "ACE", "direction": "horizontal", "startX": 2, "startY": 3}
+        {"word": "ACE", "direction": "vertical", "startX": 2, "startY": 3}
       ]
     },
     {
       "levelNumber": 66,
       "selected": "SHARP",
       "words": [
-        {"word": "SHARP", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "HARP", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "PAR", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SHARP", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "HARP", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "PAR", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "RAP", "direction": "vertical", "startX": 3, "startY": 3},
+        {"word": "ASH", "direction": "horizontal", "startX": 3, "startY": 4}
       ]
     },
     {
