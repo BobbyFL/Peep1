@@ -636,7 +636,7 @@
       "words": [
         {"word": "STACK", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "TACK", "direction": "vertical", "startX": 2, "startY": 0},
-        {"word": "SACK", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "SACK", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "SAT", "direction": "vertical", "startX": 0, "startY": 2}
       ]
     },
