@@ -642,11 +642,12 @@
     },
     {
       "levelNumber": 64,
-      "selected": "SMART",
+      "selected": "GARDEN",
       "words": [
-        {"word": "SMART", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "MART", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ART", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "GARDEN", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "DANGER", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "RANGE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "RED", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
