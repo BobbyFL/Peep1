@@ -424,8 +424,11 @@
       "levelNumber": 43,
       "selected": "FRAME",
       "words": [
-        {"word": "FRAME", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "FRAME", "direction": "horizontal", "startX": 1, "startY": 1}
+        {"word": "FRAME", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "FAME", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "MAM", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "AM", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "ERA", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
@@ -442,7 +445,7 @@
       "levelNumber": 45,
       "selected": "PLANE",
       "words": [
-        {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "PLAN", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "NAP", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "PAN", "direction": "horizontal", "startX": 1, "startY": 0},
