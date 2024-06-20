@@ -676,7 +676,7 @@
       "selected": "LIVER",
       "words": [
         {"word": "LIVER", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "LIVE", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "LIVE", "direction": "vertical", "startX": 1, "startY": 0},
         {"word": "EVIL", "direction": "horizontal", "startX": 1, "startY": 3},
         {"word": "RILE", "direction": "vertical", "startX": 3, "startY": 2}
       ]
