@@ -697,9 +697,11 @@
       "levelNumber": 69,
       "selected": "LEMON",
       "words": [
-        {"word": "LEMON", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "LEO", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "MEN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "LEMON", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "LEO", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "MEN", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "NO", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "ONE", "direction": "vertical", "startX": 3, "startY": 2}
       ]
     },
     {
