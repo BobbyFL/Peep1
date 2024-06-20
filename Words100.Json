@@ -730,12 +730,12 @@
       "levelNumber": 72,
       "selected": "SCALE",
       "words": [
-        {"word": "LACE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SEAL", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ALE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "SCALE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "ACE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SEA", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "LACE", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "SEAL", "direction": "vertical", "startX": 5, "startY": 1},
+        {"word": "ALE", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "SCALE", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "ACE", "direction": "horizontal", "startX": 1, "startY": 4},
+        {"word": "SEA", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
