@@ -720,7 +720,7 @@
       "words": [
         {"word": "NOISE", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "NOSE", "direction": "vertical", "startX": 1, "startY": 0},
-        {"word": "ION", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "ION", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "SON", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "ON", "direction": "vertical", "startX": 5, "startY": 3},
         {"word": "SIN", "direction": "horizontal", "startX": 3, "startY": 4}
