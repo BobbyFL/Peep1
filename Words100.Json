@@ -686,7 +686,7 @@
       "selected": "FRIEND",
       "words": [
         {"word": "FRIEND", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "DEN", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "DEN", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "FIN", "direction": "horizontal", "startX": 3, "startY": 2},
         {"word": "FIRE", "direction": "vertical", "startX": 3, "startY": 2},
         {"word": "RED", "direction": "horizontal", "startX": 3, "startY": 4},
