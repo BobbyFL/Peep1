@@ -742,9 +742,11 @@
       "levelNumber": 73,
       "selected": "SNAKE",
       "words": [
-        {"word": "SNAKE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "KANE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ANK", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SNAKE", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "ASK", "direction": "vertical", "startX": 3, "startY": 3},
+        {"word": "SAKE", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "SEA", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "SANK", "direction": "vertical", "startX": 5, "startY": 2}
       ]
     },
     {
