@@ -753,9 +753,11 @@
       "levelNumber": 74,
       "selected": "MOUSE",
       "words": [
-        {"word": "MOUSE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "MOSE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "OES", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "MOUSE", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "MUSE", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "USE", "direction": "horizontal", "startX": 0, "startY": 3},
+        {"word": "EMU", "direction": "horizontal", "startX": 1, "startY": 5},
+        {"word": "SUE", "direction": "vertical", "startX": 1, "startY": 3}
       ]
     },
     {
