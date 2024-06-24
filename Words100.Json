@@ -832,7 +832,7 @@
         {"word": "BAND", "direction": "horizontal", "startX": 0, "startY": 1},
         {"word": "BANG", "direction": "vertical", "startX": 1, "startY": 0},
         {"word": "BAD", "direction": "vertical", "startX": 5, "startY": 1},
-        {"word": "AND", "direction": "horizontal", "startX": 3, "startY": 2}
+        {"word": "AND", "direction": "horizontal", "startX": 3, "startY": 3}
       ]
     },
     {
