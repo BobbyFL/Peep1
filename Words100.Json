@@ -788,9 +788,10 @@
       "levelNumber": 77,
       "selected": "CANDY",
       "words": [
-        {"word": "CANDY", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "AND", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "CAN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CANDY", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "DAY", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "AND", "direction": "vertical", "startX": 1, "startY": 3},
+        {"word": "ANY", "direction": "horizontal", "startX": 1, "startY": 3}
       ]
     },
     {
