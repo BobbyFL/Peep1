@@ -794,13 +794,14 @@
         {"word": "ANY", "direction": "horizontal", "startX": 1, "startY": 3}
       ]
     },
-    {
-      "levelNumber": 78,
+     {
+      "levelNumber": 4,
       "selected": "CHAIR",
       "words": [
-        {"word": "CHAIR", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "CHAR", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ARC", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CHAIR", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "CAR", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "AIR", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "ARC", "direction": "vertical", "startX": 4, "startY": 0}
       ]
     },
     {
