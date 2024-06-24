@@ -848,11 +848,12 @@
     },
     {
       "levelNumber": 83,
-      "selected": "NOISE",
+      "selected": "RATESP",
       "words": [
-        {"word": "NOISE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "NOSE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "ONES", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SPARE", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "PART", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "PEAR", "direction": "vertical", "startX": 4, "startY": 1},
+        {"word": "STARE", "direction": "horizontal", "startX": 1, "startY": 4}
       ]
     },
     {
