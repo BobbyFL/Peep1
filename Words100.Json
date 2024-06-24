@@ -806,11 +806,12 @@
     },
     {
       "levelNumber": 79,
-      "selected": "TRADE",
+      "selected": "TARECN",
       "words": [
-        {"word": "TRADE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "RATE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "DARE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "NEAR", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "CARE", "direction": "horizontal", "startX": 2, "startY": 5},
+        {"word": "RAT", "direction": "vertical", "startX": 3, "startY": 1},
+        {"word": "ART", "direction": "horizontal", "startX": 1, "startY": 3}
       ]
     },
     {
