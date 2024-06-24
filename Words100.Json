@@ -840,8 +840,10 @@
       "selected": "MODEL",
       "words": [
         {"word": "MODEL", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "DOLE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "MELD", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "MOLD", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "OLD", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "DOE", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "DOME", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
     {
