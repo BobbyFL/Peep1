@@ -753,7 +753,7 @@
       "levelNumber": 74,
       "selected": "MOUSE",
       "words": [
-        {"word": "MOUSE", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "MOUSE", "direction": "horizontal", "startX": 0, "startY": 1},
         {"word": "MUSE", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "USE", "direction": "horizontal", "startX": 0, "startY": 3},
         {"word": "EMU", "direction": "horizontal", "startX": 1, "startY": 5},
@@ -764,9 +764,12 @@
       "levelNumber": 75,
       "selected": "GHOST",
       "words": [
-        {"word": "GHOST", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "HOT", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "HOG", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "GHOST", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "TOG", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "HOG", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "HOST", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "GOSH", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "SHOT", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
