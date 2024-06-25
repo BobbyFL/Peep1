@@ -993,11 +993,13 @@
     },
     { 
       "levelNumber": 97,
-      "selected": "FRAME",
+      "selected": "MARTIC",
       "words": [
-        {"word": "FRAME", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "FAME", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "MARE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "MATRIC", "direction": "horizontal", "startX": 0, "startY": 5},
+        {"word": "MART", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "TRIM", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "CAR", "direction": "horizontal", "startX": 3, "startY": 2},
+        {"word": "RAM", "direction": "horizontal", "startX": 0, "startY": 3}
       ]
     },
     {
