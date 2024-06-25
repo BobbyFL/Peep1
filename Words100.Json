@@ -930,8 +930,8 @@
       "levelNumber": 91,
       "selected": "MOUNT",
       "words": [
-        {"word": "MOUNT", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "TOM", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "MOUNT", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "TOM", "direction": "horizontal", "startX": 2, "startY": 4},
         {"word": "OUT", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
