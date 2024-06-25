@@ -970,11 +970,14 @@
     },
     {
       "levelNumber": 95,
-      "selected": "ROUND",
+      "selected": "BLACKS",
       "words": [
-        {"word": "ROUND", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "ROD", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "NOR", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "LACK", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "LAC", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "BACK", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "LAB", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "BLACK", "direction": "horizontal", "startX": 0, "startY": 5},
+        {"word": "CAB", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
