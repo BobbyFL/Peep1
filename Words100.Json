@@ -13,7 +13,6 @@
     {
       "levelNumber": 2,
       "selected": "APPLE",
-      "words": [
         {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 3},
         {"word": "APE", "direction": "vertical", "startX": 0, "startY": 3},
         {"word": "PAL", "direction": "vertical", "startX": 2, "startY": 3},
@@ -989,7 +988,7 @@
         {"word": "RANT", "direction": "horizontal", "startX": 0, "startY": 0},
         {"word": "TARN", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "EARS", "direction": "vertical", "startX": 1, "startY": 2},
-        {"word": "EARN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "EARN", "direction": "horizontal", "startX": 0, "startY": 3}
       ]
     },
     { 
