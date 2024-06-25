@@ -939,10 +939,10 @@
       "levelNumber": 92,
       "selected": "RIVER",
       "words": [
-        {"word": "RIVER", "direction": "vertical", "startX": 1, "startY": 0},
-        {"word": "RIVE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "VIE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "IRE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "RIVER", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "RIVE", "direction": "horizontal", "startX": 2, "startY": 1},
+        {"word": "VIE", "direction": "horizontal", "startX": 2, "startY": 3},
+        {"word": "IRE", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
