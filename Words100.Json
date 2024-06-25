@@ -1017,11 +1017,14 @@
     },
     {
       "levelNumber": 99,
-      "selected": "HOUSE",
+      "selected": "CLOUDS",
       "words": [
-        {"word": "HOUSE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "HUE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "USE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CLOUDS", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "CLOD", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "OLD", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "DO", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "LOCUS", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "SCOLD", "direction": "vertical", "startX": 5, "startY": 0}
       ]
     },
     {
