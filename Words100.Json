@@ -863,7 +863,6 @@
         {"word": "PLANT", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "PLAN", "direction": "vertical", "startX": 0, "startY": 2},
         {"word": "NAP", "direction": "horizontal", "startX": 0, "startY": 5},
-        {"word": "PLANT", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "TAN", "direction": "vertical", "startX": 4, "startY": 2},
         {"word": "TAP", "direction": "horizontal", "startX": 0, "startY": 0}
       ]
@@ -872,9 +871,10 @@
       "levelNumber": 85,
       "selected": "SHEEP",
       "words": [
-        {"word": "SHEEP", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PEES", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SHE", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "SHEEP", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "SEE", "direction": "horizontal", "startX": 2, "startY": 3},
+        {"word": "PEES", "direction": "vertical", "startX": 4, "startY": 1},
+        {"word": "SHE", "direction": "vertical", "startX": 0, "startY": 1}
       ]
     },
     {
