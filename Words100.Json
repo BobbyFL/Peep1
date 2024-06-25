@@ -1024,7 +1024,7 @@
         {"word": "OLD", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "DO", "direction": "vertical", "startX": 2, "startY": 2},
         {"word": "LOCUS", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SCOLD", "direction": "vertical", "startX": 5, "startY": 0}
+        {"word": "SCOLD", "direction": "vertical", "startX": 0, "startY": 5}
       ]
     },
     {
