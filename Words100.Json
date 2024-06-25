@@ -961,11 +961,11 @@
       "selected": "CARETS",
       "words": [
         {"word": "CARE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "SCAR", "direction": "vertical", "startX": 1, "startY": 1},
-        {"word": "STAR", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "TEA", "direction": "vertical", "startX": 1, "startY": 1},
-        {"word": "CAST", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "TARE", "direction": "vertical", "startX": 1, "startY": 1}
+        {"word": "SCAR", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "STAR", "direction": "horizontal", "startX": 2, "startY": 3},
+        {"word": "TEA", "direction": "vertical", "startX": 3, "startY": 3},
+        {"word": "CAST", "direction": "horizontal", "startX": 2, "startY": 5},
+        {"word": "TARE", "direction": "vertical", "startX": 0, "startY": 2}
       ]
     },
     {
