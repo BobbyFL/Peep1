@@ -869,7 +869,7 @@
     },
     {
       "levelNumber": 85,
-      "selected": "SHEEP",
+      "selected": "SHEEP", 
       "words": [
         {"word": "SHEEP", "direction": "horizontal", "startX": 0, "startY": 1},
         {"word": "SEE", "direction": "horizontal", "startX": 2, "startY": 3},
