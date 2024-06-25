@@ -992,7 +992,7 @@
         {"word": "EARN", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
-    {
+    { 
       "levelNumber": 97,
       "selected": "FRAME",
       "words": [
