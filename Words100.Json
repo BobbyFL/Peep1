@@ -958,11 +958,14 @@
     },
     {
       "levelNumber": 94,
-      "selected": "PLANE",
+      "selected": "CARETS",
       "words": [
-        {"word": "PLANE", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PLAN", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "LEAN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CARE", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "SCAR", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "STAR", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "TEA", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "CAST", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "TARE", "direction": "vertical", "startX": 1, "startY": 1}
       ]
     },
     {
