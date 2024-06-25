@@ -957,7 +957,7 @@
       ]
     },
     {
-      "levelNumber": 94,
+      "levelNumber": 94, 
       "selected": "CARETS",
       "words": [
         {"word": "CARE", "direction": "horizontal", "startX": 1, "startY": 0},
