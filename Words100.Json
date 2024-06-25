@@ -982,11 +982,14 @@
     },
     {
       "levelNumber": 96,
-      "selected": "SHIRT",
+      "selected": "TRANSE",
       "words": [
-        {"word": "SHIRT", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "HIT", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "SIR", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "ASTERN", "direction": "horizontal", "startX": 0, "startY": 5},
+        {"word": "STAREN", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "RANT", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "TARN", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "EARS", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "EARN", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
     {
