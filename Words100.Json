@@ -920,10 +920,10 @@
       "levelNumber": 90,
       "selected": "PRINT",
       "words": [
-        {"word": "PRINT", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "PRINT", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "TRIP", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "PIN", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "TIP", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "PIN", "direction": "horizontal", "startX": 0, "startY": 3},
+        {"word": "TIP", "direction": "horizontal", "startX": 2, "startY": 4}
       ]
     },
     {
