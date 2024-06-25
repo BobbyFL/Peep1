@@ -881,18 +881,18 @@
       "levelNumber": 86,
       "selected": "BRAINS",
       "words": [
-        {"word": "BRAIN", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "RAIN", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "BASIN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "BRAIN", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "RAIN", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "BASIN", "direction": "horizontal", "startX": 0, "startY": 5}
       ]
     },
     {
       "levelNumber": 87,
-      "selected": "QUEEN",
+      "selected": "CRANET",
       "words": [
-        {"word": "QUEEN", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "QUE", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "QUEN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "CRANE", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "TRACE", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "REACT", "direction": "vertical", "startX": 4, "startY": 0}
       ]
     },
     {
