@@ -879,11 +879,11 @@
     },
     {
       "levelNumber": 86,
-      "selected": "PAINT",
+      "selected": "BRAINS",
       "words": [
-        {"word": "PAINT", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "PANT", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "TIN", "direction": "horizontal", "startX": 1, "startY": 2}
+        {"word": "BRAIN", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "RAIN", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "BASIN", "direction": "horizontal", "startX": 1, "startY": 2}
       ]
     },
     {
