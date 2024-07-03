@@ -879,7 +879,7 @@
     },
     {
       "levelNumber": 86,
-      "selected": "BRAINS",
+      "selected": "BRAINSX",
       "words": [
         {"word": "BRAIN", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "RAIN", "direction": "vertical", "startX": 3, "startY": 0},
