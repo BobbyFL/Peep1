@@ -1031,7 +1031,7 @@
       "levelNumber": 100,
       "selected": "DELATR",
       "words": [
-        {"word": "RELATE", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "TALE", "direction": "horizontal", "startX": 0, "startY": 0},
         {"word": "LATE", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "LEAD", "direction": "horizontal", "startX": 1, "startY": 3},
         {"word": "ALERT", "direction": "horizontal", "startX": 0, "startY": 5}
