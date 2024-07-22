@@ -426,7 +426,7 @@
       "words": [
         {"word": "FRAME", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "FAME", "direction": "vertical", "startX": 1, "startY": 2},
-        {"word": "MAM", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "RAM", "direction": "vertical", "startX": 4, "startY": 0},
         {"word": "AM", "direction": "vertical", "startX": 3, "startY": 2},
         {"word": "ERA", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
