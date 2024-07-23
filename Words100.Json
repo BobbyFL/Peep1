@@ -598,7 +598,7 @@
       ]
     },
     {
-       "levelNumber": 60,
+   "levelNumber": 60,
       "selected": "BREAD",
       "words": [
         {"word": "BREAD", "direction": "horizontal", "startX": 1, "startY": 2},
