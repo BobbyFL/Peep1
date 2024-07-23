@@ -1040,17 +1040,20 @@
     },
     {
       "levelNumber": 101,
-      "selected": "TABLE",
+      "selected": "SGLAIN",
       "words": [
-        {"word": "TABLE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "TAB", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "LAB", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "TALE", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "SIGN", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "SAIL", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "GAL", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "SIGNAL", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "LING", "direction": "horizontal", "startX": 0, "startY": 3},
+        {"word": "LAG", "direction": "vertical", "startX": 5, "startY": 3},
+        {"word": "SLANG", "direction": "horizontal", "startX": 1, "startY": 5}
       ]
     },
     {
       "levelNumber": 102,
-      "selected": "APPLE",
+      "selected": "NALEIF",
       "words": [
         {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 3},
         {"word": "APE", "direction": "vertical", "startX": 0, "startY": 3},
