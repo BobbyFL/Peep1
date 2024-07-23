@@ -1055,11 +1055,11 @@
       "levelNumber": 102,
       "selected": "NALEIF",
       "words": [
-        {"word": "FILE", "direction": "horizontal", "startX": 0, "startY": 3},
+        {"word": "FILE", "direction": "horizontal", "startX": 0, "startY": 0},
         {"word": "LANE", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "FINE", "direction": "vertical", "startX": 0, "startY": 2},
-        {"word": "FLAN", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "AX", "direction": "vertical", "startX": 2, "startY": 5},
+        {"word": "FLAN", "direction": "vertical", "startX": 4, "startY": 1},
+        {"word": "AN", "direction": "vertical", "startX": 2, "startY": 5},
         {"word": "FINALE", "direction": "horizontal", "startX": 0, "startY": 2}
       ]
     },
