@@ -1109,7 +1109,7 @@
       "words": [
         {"word": "MINE", "direction": "horizontal", "startX": 0, "startY": 0},
         {"word": "MINUTE", "direction": "vertical", "startX": 0, "startY": 0},
-        {"word": "NUT", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "NUT", "direction": "horizontal", "startX": 0, "startY": 2},
         {"word": "NET", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "IN", "direction": "vertical", "startX": 2, "startY": 4},
         {"word": "TUNE", "direction": "vertical", "startX": 4, "startY": 1},
