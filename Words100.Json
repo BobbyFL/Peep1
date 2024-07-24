@@ -1092,12 +1092,15 @@
     },
     {
       "levelNumber": 105,
-      "selected": "FRUIT",
+      "selected": "OCWNRS",
       "words": [
-        {"word": "FRUIT", "direction": "horizontal", "startX": 1, "startY": 3},
-        {"word": "FIT", "direction": "vertical", "startX": 5, "startY": 1},
-        {"word": "RUT", "direction": "vertical", "startX": 3, "startY": 2},
-        {"word": "FIR", "direction": "vertical", "startX": 1, "startY": 3}
+        {"word": "CROWNS", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "ROW", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "SNOW", "direction": "vertical", "startX": 5, "startY": 2},
+        {"word": "NOW", "direction": "horizontal", "startX": 3, "startY": 5},
+        {"word": "CORN", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "ON", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "NO", "direction": "horizontal", "startX": 0, "startY": 5}
       ]
     },
     {
