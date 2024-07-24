@@ -1098,7 +1098,7 @@
         {"word": "ROW", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "SNOW", "direction": "vertical", "startX": 5, "startY": 2},
         {"word": "NOW", "direction": "horizontal", "startX": 3, "startY": 5},
-        {"word": "CORN", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "CORN", "direction": "vertical", "startX": 0, "startY": 2},
         {"word": "ON", "direction": "vertical", "startX": 2, "startY": 2},
         {"word": "NO", "direction": "horizontal", "startX": 0, "startY": 5}
       ]
