@@ -1078,12 +1078,16 @@
     },
     {
       "levelNumber": 104,
-      "selected": "CHAIR",
+      "selected": "NITNER",
       "words": [
-        {"word": "CHAIR", "direction": "horizontal", "startX": 0, "startY": 1},
-        {"word": "CAR", "direction": "vertical", "startX": 0, "startY": 1},
-        {"word": "AIR", "direction": "vertical", "startX": 2, "startY": 1},
-        {"word": "ARC", "direction": "vertical", "startX": 4, "startY": 0}
+        {"word": "IT", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "TIE", "direction": "horizontal", "startX": 0, "startY": 1},
+        {"word": "TIN", "direction": "horizontal", "startX": 3, "startY": 0},
+        {"word": "NET", "direction": "vertical", "startX": 0, "startY": 3},
+        {"word": "TINNER", "direction": "horizontal", "startX": 0, "startY": 5},
+        {"word": "INN", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "TIRE", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "IN", "direction": "horizontal", "startX": 4, "startY": 3}
       ]
     },
     {
